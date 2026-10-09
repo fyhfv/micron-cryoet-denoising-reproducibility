@@ -6,7 +6,7 @@ Bounded **supplementary reproducibility materials** for the review manuscript:
 
 This archive supports the **Peng_extension** controls (2026-10-03). It is **not** a new restoration algorithm and **not** a comprehensive matched-information method benchmark. No original result in the review was replaced by these controls.
 
-> **Zenodo DOI:** *not yet assigned* — after the first GitHub Release is linked to Zenodo, replace this line with the version DOI (e.g. `https://doi.org/10.5281/zenodo.XXXXXXX`) and update the manuscript *Data and code availability* section.
+> **Zenodo DOI:** [10.5281/zenodo.23262043](https://doi.org/10.5281/zenodo.23262043)
 
 ---
 

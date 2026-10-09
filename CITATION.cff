@@ -16,7 +16,7 @@ authors:
   - family-names: Li
     given-names: Yao-Wang
 date-released: "2026-10-03"
-version: "1.0.0-pre"
+version: "1.0.0"
 abstract: >
   Bounded supplementary reproducibility materials for a Micron review article
   on cryo-ET denoising and missing-wedge restoration. Includes scripts, hashes,
@@ -28,7 +28,7 @@ keywords:
   - missing wedge
   - reproducibility
 license: MIT
-repository-code: "https://github.com/REPLACE_ME/micron-cryoet-denoising-reproducibility"
-# identifiers:
-#   - type: doi
-#     value: 10.5281/zenodo.XXXXXXX
+repository-code: "https://github.com/fyhfv/micron-cryoet-denoising-reproducibility"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23262043
