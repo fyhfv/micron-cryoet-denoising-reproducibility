@@ -15,16 +15,10 @@
 
 ## B. 把本地仓库推上去（PowerShell）
 
-在本机打开终端，执行（把 URL 换成你的）：
+本地已完成 `git init` 与首次提交（122 个文件，约 196 MB）。你只需：
 
 ```powershell
 cd "C:\Users\admin\Desktop\wy小论文\reproducibility_repo"
-
-# 若尚未 init（若已有 .git 可跳过前两步）
-git init
-git branch -M main
-git add .
-git commit -m "Initial reproducibility package for Micron cryo-ET review extension."
 
 git remote add origin https://github.com/你的用户名/micron-cryoet-denoising-reproducibility.git
 git push -u origin main
@@ -32,7 +26,7 @@ git push -u origin main
 
 推送约 200 MB，需已登录 GitHub（浏览器或 Git Credential Manager）。
 
-推送后把 `CITATION.cff` 与 `README.md` 里的 `REPLACE_ME` 改成真实用户名/仓库名，再提交一次。
+推送后把 `CITATION.cff` 里的 `REPLACE_ME` 改成真实用户名/仓库名，再提交一次。
 
 ## C. 连接 Zenodo（拿 DOI）
 
