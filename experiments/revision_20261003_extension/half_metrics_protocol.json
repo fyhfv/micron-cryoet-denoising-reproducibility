@@ -1,0 +1,46 @@
+{
+  "centers_zyx": [
+    [
+      104,
+      960,
+      144
+    ],
+    [
+      104,
+      960,
+      400
+    ],
+    [
+      104,
+      1088,
+      144
+    ],
+    [
+      104,
+      1088,
+      400
+    ],
+    [
+      104,
+      1216,
+      144
+    ],
+    [
+      104,
+      1216,
+      400
+    ]
+  ],
+  "context": 96,
+  "scoring_center": 64,
+  "gaussian_sigma": 1.5,
+  "topaz": "unet-3d-10a",
+  "patch_size": 96,
+  "padding": 24,
+  "summary_band": [
+    0.05,
+    0.2
+  ],
+  "normalization": "cross-half MSE in original units divided by raw even-odd MSE; no test-target intensity fitting",
+  "limitations": "Shared alignment/reconstruction and same fixed fitted network can induce common signal/bias; FSC is not gold-standard STA or verified physical resolution. Topaz pretraining overlap with Tomo110 cannot be excluded."
+}

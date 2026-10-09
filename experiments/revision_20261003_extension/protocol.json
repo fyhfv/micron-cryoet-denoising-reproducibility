@@ -1,0 +1,13 @@
+{
+  "created": "2026-10-03 before viewing new outcomes",
+  "scope": "Feasibility plus bounded supplemental experiments; no original results overwritten",
+  "new_CZII_runs": ["TS_69_2", "TS_6_4", "TS_6_6", "TS_73_6", "TS_99_9"],
+  "selection": "All five previously unused runs in DS-10440, not selected by observed performance; same source cohort, not five biological replicates or external laboratories",
+  "new_sample_inputs": "Author-submitted filtered WBP at 10.012 Angstrom; no new DenoisET downloads used as truth",
+  "methods_initial": ["Raw", "Gaussian sigma 1.5 voxels", "frozen Topaz unet-3d-10a"],
+  "picking": "Reuse prior six one-v-rest sphere templates and fixed calibration thresholds from TS_5_4; no threshold choice from any new run's labels. Full-volume matching, all six classes, per-run and macro scores, no universal picker ranking.",
+  "half_pair": "Official DeepDeWedge tutorial Tomo110 frame-split FBP data, source https://api.figshare.com/v2/file/download/45582309; verify contents before selecting processing protocol",
+  "half_limit": "Disjoint detector-frame noise observations are not separate biological specimens; shared alignment and reconstruction can still induce dependence. No gold-standard STA claim.",
+  "additional_method": "Attempt official cryoCARE implementation with saved version/configuration and honest computational budget; successful import alone is not a completed benchmark.",
+  "reporting": "Record unsuccessful attempts and all outcomes; compare only compatible inputs/targets; retain raw and processed halves separately. No output-selected thresholds or tuning. Training and evaluation must not share held-out noisy target regions."
+}

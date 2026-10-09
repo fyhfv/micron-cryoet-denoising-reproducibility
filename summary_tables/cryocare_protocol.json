@@ -1,0 +1,81 @@
+{
+  "method": "official cryoCARE",
+  "package_version": "0.2.2",
+  "tensorflow": "2.15.1",
+  "seed": 20261003,
+  "device": "CPU",
+  "training_crop_zyx": [
+    [
+      0,
+      208
+    ],
+    [
+      0,
+      768
+    ],
+    [
+      0,
+      544
+    ]
+  ],
+  "validation_fraction": 0.15,
+  "patch_shape": [
+    64,
+    64,
+    64
+  ],
+  "n_samples": 200,
+  "n_normalization_samples": 32,
+  "epochs": 20,
+  "steps_per_epoch": 20,
+  "batch_size": 2,
+  "unet_depth": 3,
+  "unet_first": 16,
+  "learning_rate": 0.0004,
+  "training_budget": "400 gradient updates; bounded local demonstration, not a converged or tuned method benchmark",
+  "evaluation": "six geometric 96-cube contexts, central 64-cube scoring; same model applied to each held-out half separately, then pair average as secondary output",
+  "centers_zyx": [
+    [
+      104,
+      960,
+      144
+    ],
+    [
+      104,
+      960,
+      400
+    ],
+    [
+      104,
+      1088,
+      144
+    ],
+    [
+      104,
+      1088,
+      400
+    ],
+    [
+      104,
+      1216,
+      144
+    ],
+    [
+      104,
+      1216,
+      400
+    ]
+  ],
+  "test_y": [
+    896,
+    1280
+  ],
+  "guard_y": [
+    768,
+    896
+  ],
+  "independence": "frame-disjoint inputs; shared acquisition, alignment and reconstruction, spatial crops are technical subsamples not biological replicates",
+  "voxel_spacing": "MRC header is zero; report frequency in cycles/voxel, no Angstrom resolution inferred",
+  "wrapper": "Use unchanged official DataModule, CryoCARE.train and predict_direct; custom held-out crop orchestration. Packaged pretrained tutorial checkpoint is NOT loaded.",
+  "script_sha256": "b028f3e347df2b09b65ae32631ae95ca87240feca994f613a7316386c0702a9b"
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Reproducibility package: deep-learning denoising and missing-wedge restoration in cryo-electron tomography (Micron review, Peng_extension)",
+  "description": "Bounded supplementary reproducibility materials for a Micron review on cryo-ET denoising and missing-wedge restoration. Includes benchmark/recheck scripts, fixed seeds and configuration, source hashes, half-set evaluation arrays (24 metric rows / 48 FSC curves via run_halves.py evaluate), and an official cryoCARE demonstration fit. This is not a new restoration algorithm and not a comprehensive matched-information method benchmark. Upstream CZII and Figshare tutorial data remain under their original terms; see NOTICE.",
+  "creators": [
+    {"name": "Jiang, Linhua"},
+    {"name": "Wu, Yi"},
+    {"name": "Long, Wei"},
+    {"name": "Zhu, Bo"},
+    {"name": "Peng, Sihua"},
+    {"name": "Li, Yao-Wang"}
+  ],
+  "keywords": [
+    "cryo-ET",
+    "denoising",
+    "missing wedge",
+    "reproducibility",
+    "cryoCARE",
+    "Micron"
+  ],
+  "license": "mit",
+  "upload_type": "software",
+  "access_right": "open",
+  "communities": [],
+  "related_identifiers": [
+    {
+      "identifier": "https://cryoetdataportal.czscience.com/datasets/10440",
+      "relation": "references",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://api.figshare.com/v2/file/download/45582309",
+      "relation": "references",
+      "resource_type": "dataset"
+    }
+  ]
+}

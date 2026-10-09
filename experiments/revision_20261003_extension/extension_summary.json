@@ -1,0 +1,40 @@
+{
+  "new_runs": [
+    "TS_69_2",
+    "TS_6_4",
+    "TS_6_6",
+    "TS_73_6",
+    "TS_99_9"
+  ],
+  "particles": 892,
+  "ribosomes": 245,
+  "picking_rows": 120,
+  "metric_rows": 15,
+  "half_rows": 24,
+  "fsc_curves": 48,
+  "macro_F1": {
+    "raw": 0.025376586700699023,
+    "topaz_fixed": 0.00351681729630254,
+    "topaz_own": 0.01114636971004886
+  },
+  "half_summary": {
+    "cryocare": {
+      "mean_ratio": 0.6321592068598388,
+      "sd_ratio": 0.008829791384393807
+    },
+    "gaussian": {
+      "mean_ratio": 0.6749167183358673,
+      "sd_ratio": 0.017161778511136497
+    },
+    "raw": {
+      "mean_ratio": 1.0,
+      "sd_ratio": 0.0
+    },
+    "topaz": {
+      "mean_ratio": 0.6582027441057248,
+      "sd_ratio": 0.0149078509769749
+    }
+  },
+  "source_manuscript_sha256": "f71e12b4a87c85a58699facf214c9063e3e187ea84d7a4b2ea0c6526f1797cc3",
+  "source_supplement_sha256": "6d382d22017deec0eb1558f5e977cd99ed57928ff0c98ef4c5a3134c8a238a61"
+}

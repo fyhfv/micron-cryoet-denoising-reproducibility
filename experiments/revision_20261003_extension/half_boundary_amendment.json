@@ -1,0 +1,6 @@
+{
+  "reason": "Initial hard-cropped processed-half FSC curves often did not cross 0.143. Added a fixed boundary-sensitivity diagnostic rather than interpreting these curves as recovered resolution.",
+  "change": "Compute the same FSC on mean-subtracted 64-cube outputs multiplied by a separable Hann window; retain original curves, cross-half errors, summary frequency band and all samples unchanged.",
+  "timing": "Exploratory diagnostic added after initial untapered FSC inspection, before manuscript tables were finalised.",
+  "interpretation": "A taper addresses boundary leakage, not shared model, acquisition or reconstruction dependence. Neither curve is gold-standard STA."
+}

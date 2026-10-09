@@ -1,0 +1,10 @@
+{
+  "url": "https://api.figshare.com/v2/file/download/45582309",
+  "file": "C:\\Users\\wangz\\Desktop\\\u751f\u7269\u6280\u672f\u7efc\u8ff0\\experiments\\revision_20261003_extension\\data\\Tomo110_tutorial.zip",
+  "bytes": 1947310911,
+  "sha256": "7c871342e51f5a66a773fe427d72944b5d2cc8ff41c5b7415ab38dbfc9ac6d58",
+  "completed_utc": "2026-10-03T04:50:33.193710+00:00",
+  "seconds": 452.2137916088104,
+  "etag": "\"450baf977b8678e9e74f5332dca5e0d1-2\"",
+  "last_modified": "Wed, 10 Apr 2024 21:25:59 GMT"
+}

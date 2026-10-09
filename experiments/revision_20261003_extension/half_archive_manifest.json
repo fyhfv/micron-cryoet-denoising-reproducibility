@@ -1,0 +1,37 @@
+[
+  {
+    "name": "tutorial_data/.DS_Store",
+    "bytes": 6148,
+    "sha256": "5dbf1431efd668c775dd593f60463a46a98eb641aa62102b9a4d1cb7d5c946ba"
+  },
+  {
+    "name": "tutorial_data/tomo_odd_frames.rec",
+    "bytes": 588545024,
+    "sha256": "0d3d3cd669244b71c93cae548484adee4d56dbde8705e190f5c62e12e49dfa24"
+  },
+  {
+    "name": "tutorial_data/tomo_all_frames.rec",
+    "bytes": 588545024,
+    "sha256": "986449f51dfab87f2b5623f13e310446c5aecfbb9dd9642ec794e5e48092751d"
+  },
+  {
+    "name": "tutorial_data/README.txt",
+    "bytes": 1438,
+    "sha256": "d7c2a7a36aeae8b5cec25ab6941004632c850a52ed251913f307442b127a72e3"
+  },
+  {
+    "name": "tutorial_data/tomo_even_frames.rec",
+    "bytes": 588545024,
+    "sha256": "76bda63adedb6b1881a625eb36ee046459377f980744cf2a07599f3301a2dce1"
+  },
+  {
+    "name": "tutorial_data/mask.mrc",
+    "bytes": 588545024,
+    "sha256": "4928a55cf68ab1392a32b51f5dd7f546708b8fc4fc683306ce86f4ed7a170ab7"
+  },
+  {
+    "name": "tutorial_data/fitted_model.ckpt",
+    "bytes": 327952642,
+    "sha256": "5262f6c11e85fd662b02e59efe936fa7b69913758e841235be2683f7bd03ec76"
+  }
+]

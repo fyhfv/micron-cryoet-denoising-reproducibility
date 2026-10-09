@@ -1,0 +1,272 @@
+{
+  "curves_checked": 48,
+  "max_abs_fullfft_error": 7.101298271638967e-08,
+  "checks": [
+    {
+      "crop": 0,
+      "method": "raw",
+      "max_abs_fsc_error": 5.293142879558843e-08
+    },
+    {
+      "crop": 0,
+      "method": "raw",
+      "window": "hann",
+      "max_abs_fsc_error": 1.4988010832439613e-15
+    },
+    {
+      "crop": 0,
+      "method": "gaussian",
+      "max_abs_fsc_error": 3.2109861214379976e-08
+    },
+    {
+      "crop": 0,
+      "method": "gaussian",
+      "window": "hann",
+      "max_abs_fsc_error": 4.39648317751562e-14
+    },
+    {
+      "crop": 0,
+      "method": "topaz",
+      "max_abs_fsc_error": 3.668052667160637e-08
+    },
+    {
+      "crop": 0,
+      "method": "topaz",
+      "window": "hann",
+      "max_abs_fsc_error": 1.942890293094024e-15
+    },
+    {
+      "crop": 0,
+      "method": "cryocare",
+      "max_abs_fsc_error": 2.666097287384872e-08
+    },
+    {
+      "crop": 0,
+      "method": "cryocare",
+      "window": "hann",
+      "max_abs_fsc_error": 1.942890293094024e-15
+    },
+    {
+      "crop": 1,
+      "method": "raw",
+      "max_abs_fsc_error": 3.990575903056737e-08
+    },
+    {
+      "crop": 1,
+      "method": "raw",
+      "window": "hann",
+      "max_abs_fsc_error": 1.7208456881689926e-15
+    },
+    {
+      "crop": 1,
+      "method": "gaussian",
+      "max_abs_fsc_error": 4.200464387427161e-08
+    },
+    {
+      "crop": 1,
+      "method": "gaussian",
+      "window": "hann",
+      "max_abs_fsc_error": 7.235878562994458e-14
+    },
+    {
+      "crop": 1,
+      "method": "topaz",
+      "max_abs_fsc_error": 2.5560278116287805e-08
+    },
+    {
+      "crop": 1,
+      "method": "topaz",
+      "window": "hann",
+      "max_abs_fsc_error": 9.992007221626409e-16
+    },
+    {
+      "crop": 1,
+      "method": "cryocare",
+      "max_abs_fsc_error": 2.671357390848783e-08
+    },
+    {
+      "crop": 1,
+      "method": "cryocare",
+      "window": "hann",
+      "max_abs_fsc_error": 1.4432899320127035e-15
+    },
+    {
+      "crop": 2,
+      "method": "raw",
+      "max_abs_fsc_error": 3.512022739293741e-08
+    },
+    {
+      "crop": 2,
+      "method": "raw",
+      "window": "hann",
+      "max_abs_fsc_error": 9.159339953157541e-16
+    },
+    {
+      "crop": 2,
+      "method": "gaussian",
+      "max_abs_fsc_error": 3.648872948236459e-08
+    },
+    {
+      "crop": 2,
+      "method": "gaussian",
+      "window": "hann",
+      "max_abs_fsc_error": 4.3520742565306136e-14
+    },
+    {
+      "crop": 2,
+      "method": "topaz",
+      "max_abs_fsc_error": 4.2063871386055496e-08
+    },
+    {
+      "crop": 2,
+      "method": "topaz",
+      "window": "hann",
+      "max_abs_fsc_error": 1.7763568394002505e-15
+    },
+    {
+      "crop": 2,
+      "method": "cryocare",
+      "max_abs_fsc_error": 3.896829969818327e-08
+    },
+    {
+      "crop": 2,
+      "method": "cryocare",
+      "window": "hann",
+      "max_abs_fsc_error": 2.0539125955565396e-15
+    },
+    {
+      "crop": 3,
+      "method": "raw",
+      "max_abs_fsc_error": 2.6717572598755623e-08
+    },
+    {
+      "crop": 3,
+      "method": "raw",
+      "window": "hann",
+      "max_abs_fsc_error": 1.5543122344752192e-15
+    },
+    {
+      "crop": 3,
+      "method": "gaussian",
+      "max_abs_fsc_error": 3.520446989480064e-08
+    },
+    {
+      "crop": 3,
+      "method": "gaussian",
+      "window": "hann",
+      "max_abs_fsc_error": 1.3683498778505054e-14
+    },
+    {
+      "crop": 3,
+      "method": "topaz",
+      "max_abs_fsc_error": 3.832425488070612e-08
+    },
+    {
+      "crop": 3,
+      "method": "topaz",
+      "window": "hann",
+      "max_abs_fsc_error": 2.55351295663786e-15
+    },
+    {
+      "crop": 3,
+      "method": "cryocare",
+      "max_abs_fsc_error": 7.101298271638967e-08
+    },
+    {
+      "crop": 3,
+      "method": "cryocare",
+      "window": "hann",
+      "max_abs_fsc_error": 1.7763568394002505e-15
+    },
+    {
+      "crop": 4,
+      "method": "raw",
+      "max_abs_fsc_error": 2.8651212180541563e-08
+    },
+    {
+      "crop": 4,
+      "method": "raw",
+      "window": "hann",
+      "max_abs_fsc_error": 1.4988010832439613e-15
+    },
+    {
+      "crop": 4,
+      "method": "gaussian",
+      "max_abs_fsc_error": 3.7449294443270276e-08
+    },
+    {
+      "crop": 4,
+      "method": "gaussian",
+      "window": "hann",
+      "max_abs_fsc_error": 5.2458037913538647e-14
+    },
+    {
+      "crop": 4,
+      "method": "topaz",
+      "max_abs_fsc_error": 4.7262661340141676e-08
+    },
+    {
+      "crop": 4,
+      "method": "topaz",
+      "window": "hann",
+      "max_abs_fsc_error": 1.4988010832439613e-15
+    },
+    {
+      "crop": 4,
+      "method": "cryocare",
+      "max_abs_fsc_error": 1.6293860760629997e-08
+    },
+    {
+      "crop": 4,
+      "method": "cryocare",
+      "window": "hann",
+      "max_abs_fsc_error": 1.887379141862766e-15
+    },
+    {
+      "crop": 5,
+      "method": "raw",
+      "max_abs_fsc_error": 5.54512457062728e-08
+    },
+    {
+      "crop": 5,
+      "method": "raw",
+      "window": "hann",
+      "max_abs_fsc_error": 1.7763568394002505e-15
+    },
+    {
+      "crop": 5,
+      "method": "gaussian",
+      "max_abs_fsc_error": 5.2694115515450335e-08
+    },
+    {
+      "crop": 5,
+      "method": "gaussian",
+      "window": "hann",
+      "max_abs_fsc_error": 3.1252778143198157e-14
+    },
+    {
+      "crop": 5,
+      "method": "topaz",
+      "max_abs_fsc_error": 3.478881421825619e-08
+    },
+    {
+      "crop": 5,
+      "method": "topaz",
+      "window": "hann",
+      "max_abs_fsc_error": 1.6653345369377348e-15
+    },
+    {
+      "crop": 5,
+      "method": "cryocare",
+      "max_abs_fsc_error": 3.1565971725378006e-08
+    },
+    {
+      "crop": 5,
+      "method": "cryocare",
+      "window": "hann",
+      "max_abs_fsc_error": 1.3322676295501878e-15
+    }
+  ],
+  "raw_ratio_all_one": true,
+  "note": "Six spatial crops of ONE tomogram; descriptive SD only, not biological inference."
+}

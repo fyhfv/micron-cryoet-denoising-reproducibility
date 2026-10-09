@@ -1,0 +1,26 @@
+Third-party and upstream materials
+==================================
+
+This package may include or reference materials that are not covered by the
+MIT License of the authors' scripts:
+
+1. CZII cryo-ET portal dataset 10440
+   https://cryoetdataportal.czscience.com/datasets/10440
+   Terms: as published by the Chan Zuckerberg Institute Imaging / portal.
+
+2. DeepDeWedge tutorial archive (Figshare file 45582309)
+   https://api.figshare.com/v2/file/download/45582309
+   Related software: https://github.com/MLI-lab/DeepDeWedge
+
+3. cryoCARE / csbdeep / TensorFlow stack
+   https://github.com/juglab/cryoCARE_pip
+   Package versions used for the demonstration fit are recorded in
+   experiments/revision_20261003_extension/environment_cryocare.json
+
+4. Topaz and other denoising tools referenced by environment_main.json
+   Use the recorded package lists; do not assume redistributed GPUs or
+   full training corpora are included.
+
+Hashes, download timestamps, and provenance JSON files in this repository
+are provided so that retrieved upstream bytes can be verified. Presence of a
+hash does not change upstream ownership or license.

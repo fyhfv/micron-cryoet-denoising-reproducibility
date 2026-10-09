@@ -1,0 +1,436 @@
+[
+  {
+    "run_id": 16463,
+    "name": "TS_5_4",
+    "tomograms": [
+      {
+        "id": 17015,
+        "name": "TS_5_4",
+        "processing": "denoised",
+        "voxel_spacing": 10.012,
+        "size_x": 630,
+        "size_y": 630,
+        "size_z": 184,
+        "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_5_4/Reconstructions/VoxelSpacing10.012/Tomograms/100/TS_5_4.mrc",
+        "file_size_mrc": 292119424.0,
+        "tomogram_version": 2.0,
+        "ctf_corrected": true,
+        "reconstruction_software": "AreTomo3 v1.0.23"
+      },
+      {
+        "id": 17016,
+        "name": "TS_5_4",
+        "processing": "filtered",
+        "voxel_spacing": 10.012,
+        "size_x": 630,
+        "size_y": 630,
+        "size_z": 184,
+        "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_5_4/Reconstructions/VoxelSpacing10.012/Tomograms/101/TS_5_4.mrc",
+        "file_size_mrc": 292119424.0,
+        "tomogram_version": 2.0,
+        "ctf_corrected": true,
+        "reconstruction_software": "AreTomo3 v1.0.23"
+      },
+      {
+        "id": 18920,
+        "name": "TS_5_4",
+        "processing": "denoised",
+        "voxel_spacing": 4.99,
+        "size_x": 1260,
+        "size_y": 1260,
+        "size_z": 368,
+        "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_5_4/Reconstructions/VoxelSpacing4.990/Tomograms/102/TS_5_4.mrc",
+        "file_size_mrc": 2336948224.0,
+        "tomogram_version": 1.0,
+        "ctf_corrected": true,
+        "reconstruction_software": "AreTomo3 v2.0.10"
+      },
+      {
+        "id": 18921,
+        "name": "TS_5_4",
+        "processing": "filtered",
+        "voxel_spacing": 4.99,
+        "size_x": 1260,
+        "size_y": 1260,
+        "size_z": 368,
+        "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_5_4/Reconstructions/VoxelSpacing4.990/Tomograms/103/TS_5_4.mrc",
+        "file_size_mrc": 2336948224.0,
+        "tomogram_version": 1.0,
+        "ctf_corrected": true,
+        "reconstruction_software": "AreTomo3 v2.0.10"
+      }
+    ]
+  },
+  {
+    "run_id": 16464,
+    "name": "TS_69_2",
+    "tomograms": [
+      {
+        "id": 17019,
+        "name": "TS_69_2",
+        "processing": "denoised",
+        "voxel_spacing": 10.012,
+        "size_x": 630,
+        "size_y": 630,
+        "size_z": 184,
+        "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_69_2/Reconstructions/VoxelSpacing10.012/Tomograms/100/TS_69_2.mrc",
+        "file_size_mrc": 292119424.0,
+        "tomogram_version": 2.0,
+        "ctf_corrected": true,
+        "reconstruction_software": "AreTomo3 v1.0.23"
+      },
+      {
+        "id": 17020,
+        "name": "TS_69_2",
+        "processing": "filtered",
+        "voxel_spacing": 10.012,
+        "size_x": 630,
+        "size_y": 630,
+        "size_z": 184,
+        "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_69_2/Reconstructions/VoxelSpacing10.012/Tomograms/101/TS_69_2.mrc",
+        "file_size_mrc": 292119424.0,
+        "tomogram_version": 2.0,
+        "ctf_corrected": true,
+        "reconstruction_software": "AreTomo3 v1.0.23"
+      },
+      {
+        "id": 18922,
+        "name": "TS_69_2",
+        "processing": "denoised",
+        "voxel_spacing": 4.99,
+        "size_x": 1260,
+        "size_y": 1260,
+        "size_z": 368,
+        "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_69_2/Reconstructions/VoxelSpacing4.990/Tomograms/102/TS_69_2.mrc",
+        "file_size_mrc": 2336948224.0,
+        "tomogram_version": 1.0,
+        "ctf_corrected": true,
+        "reconstruction_software": "AreTomo3 v2.0.10"
+      },
+      {
+        "id": 18923,
+        "name": "TS_69_2",
+        "processing": "filtered",
+        "voxel_spacing": 4.99,
+        "size_x": 1260,
+        "size_y": 1260,
+        "size_z": 368,
+        "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_69_2/Reconstructions/VoxelSpacing4.990/Tomograms/103/TS_69_2.mrc",
+        "file_size_mrc": 2336948224.0,
+        "tomogram_version": 1.0,
+        "ctf_corrected": true,
+        "reconstruction_software": "AreTomo3 v2.0.10"
+      }
+    ]
+  },
+  {
+    "run_id": 16465,
+    "name": "TS_6_4",
+    "tomograms": [
+      {
+        "id": 17023,
+        "name": "TS_6_4",
+        "processing": "denoised",
+        "voxel_spacing": 10.012,
+        "size_x": 630,
+        "size_y": 630,
+        "size_z": 184,
+        "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_6_4/Reconstructions/VoxelSpacing10.012/Tomograms/100/TS_6_4.mrc",
+        "file_size_mrc": 292119424.0,
+        "tomogram_version": 2.0,
+        "ctf_corrected": true,
+        "reconstruction_software": "AreTomo3 v1.0.23"
+      },
+      {
+        "id": 17024,
+        "name": "TS_6_4",
+        "processing": "filtered",
+        "voxel_spacing": 10.012,
+        "size_x": 630,
+        "size_y": 630,
+        "size_z": 184,
+        "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_6_4/Reconstructions/VoxelSpacing10.012/Tomograms/101/TS_6_4.mrc",
+        "file_size_mrc": 292119424.0,
+        "tomogram_version": 2.0,
+        "ctf_corrected": true,
+        "reconstruction_software": "AreTomo3 v1.0.23"
+      },
+      {
+        "id": 18924,
+        "name": "TS_6_4",
+        "processing": "denoised",
+        "voxel_spacing": 4.99,
+        "size_x": 1260,
+        "size_y": 1260,
+        "size_z": 368,
+        "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_6_4/Reconstructions/VoxelSpacing4.990/Tomograms/102/TS_6_4.mrc",
+        "file_size_mrc": 2336948224.0,
+        "tomogram_version": 1.0,
+        "ctf_corrected": true,
+        "reconstruction_software": "AreTomo3 v2.0.10"
+      },
+      {
+        "id": 18925,
+        "name": "TS_6_4",
+        "processing": "filtered",
+        "voxel_spacing": 4.99,
+        "size_x": 1260,
+        "size_y": 1260,
+        "size_z": 368,
+        "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_6_4/Reconstructions/VoxelSpacing4.990/Tomograms/103/TS_6_4.mrc",
+        "file_size_mrc": 2336948224.0,
+        "tomogram_version": 1.0,
+        "ctf_corrected": true,
+        "reconstruction_software": "AreTomo3 v2.0.10"
+      }
+    ]
+  },
+  {
+    "run_id": 16466,
+    "name": "TS_6_6",
+    "tomograms": [
+      {
+        "id": 17027,
+        "name": "TS_6_6",
+        "processing": "denoised",
+        "voxel_spacing": 10.012,
+        "size_x": 630,
+        "size_y": 630,
+        "size_z": 184,
+        "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_6_6/Reconstructions/VoxelSpacing10.012/Tomograms/100/TS_6_6.mrc",
+        "file_size_mrc": 292119424.0,
+        "tomogram_version": 2.0,
+        "ctf_corrected": true,
+        "reconstruction_software": "AreTomo3 v1.0.23"
+      },
+      {
+        "id": 17028,
+        "name": "TS_6_6",
+        "processing": "filtered",
+        "voxel_spacing": 10.012,
+        "size_x": 630,
+        "size_y": 630,
+        "size_z": 184,
+        "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_6_6/Reconstructions/VoxelSpacing10.012/Tomograms/101/TS_6_6.mrc",
+        "file_size_mrc": 292119424.0,
+        "tomogram_version": 2.0,
+        "ctf_corrected": true,
+        "reconstruction_software": "AreTomo3 v1.0.23"
+      },
+      {
+        "id": 18926,
+        "name": "TS_6_6",
+        "processing": "denoised",
+        "voxel_spacing": 4.99,
+        "size_x": 1260,
+        "size_y": 1260,
+        "size_z": 368,
+        "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_6_6/Reconstructions/VoxelSpacing4.990/Tomograms/102/TS_6_6.mrc",
+        "file_size_mrc": 2336948224.0,
+        "tomogram_version": 1.0,
+        "ctf_corrected": true,
+        "reconstruction_software": "AreTomo3 v2.0.10"
+      },
+      {
+        "id": 18927,
+        "name": "TS_6_6",
+        "processing": "filtered",
+        "voxel_spacing": 4.99,
+        "size_x": 1260,
+        "size_y": 1260,
+        "size_z": 368,
+        "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_6_6/Reconstructions/VoxelSpacing4.990/Tomograms/103/TS_6_6.mrc",
+        "file_size_mrc": 2336948224.0,
+        "tomogram_version": 1.0,
+        "ctf_corrected": true,
+        "reconstruction_software": "AreTomo3 v2.0.10"
+      }
+    ]
+  },
+  {
+    "run_id": 16467,
+    "name": "TS_73_6",
+    "tomograms": [
+      {
+        "id": 17031,
+        "name": "TS_73_6",
+        "processing": "denoised",
+        "voxel_spacing": 10.012,
+        "size_x": 630,
+        "size_y": 630,
+        "size_z": 184,
+        "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_73_6/Reconstructions/VoxelSpacing10.012/Tomograms/100/TS_73_6.mrc",
+        "file_size_mrc": 292119424.0,
+        "tomogram_version": 2.0,
+        "ctf_corrected": true,
+        "reconstruction_software": "AreTomo3 v1.0.23"
+      },
+      {
+        "id": 18928,
+        "name": "TS_73_6",
+        "processing": "denoised",
+        "voxel_spacing": 4.99,
+        "size_x": 1260,
+        "size_y": 1260,
+        "size_z": 368,
+        "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_73_6/Reconstructions/VoxelSpacing4.990/Tomograms/102/TS_73_6.mrc",
+        "file_size_mrc": 2336948224.0,
+        "tomogram_version": 1.0,
+        "ctf_corrected": true,
+        "reconstruction_software": "AreTomo3 v2.0.10"
+      },
+      {
+        "id": 18929,
+        "name": "TS_73_6",
+        "processing": "filtered",
+        "voxel_spacing": 4.99,
+        "size_x": 1260,
+        "size_y": 1260,
+        "size_z": 368,
+        "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_73_6/Reconstructions/VoxelSpacing4.990/Tomograms/103/TS_73_6.mrc",
+        "file_size_mrc": 2336948224.0,
+        "tomogram_version": 1.0,
+        "ctf_corrected": true,
+        "reconstruction_software": "AreTomo3 v2.0.10"
+      },
+      {
+        "id": 17032,
+        "name": "TS_73_6",
+        "processing": "filtered",
+        "voxel_spacing": 10.012,
+        "size_x": 630,
+        "size_y": 630,
+        "size_z": 184,
+        "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_73_6/Reconstructions/VoxelSpacing10.012/Tomograms/101/TS_73_6.mrc",
+        "file_size_mrc": 292119424.0,
+        "tomogram_version": 2.0,
+        "ctf_corrected": true,
+        "reconstruction_software": "AreTomo3 v1.0.23"
+      }
+    ]
+  },
+  {
+    "run_id": 16468,
+    "name": "TS_86_3",
+    "tomograms": [
+      {
+        "id": 17035,
+        "name": "TS_86_3",
+        "processing": "denoised",
+        "voxel_spacing": 10.012,
+        "size_x": 630,
+        "size_y": 630,
+        "size_z": 184,
+        "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_86_3/Reconstructions/VoxelSpacing10.012/Tomograms/100/TS_86_3.mrc",
+        "file_size_mrc": 292119424.0,
+        "tomogram_version": 2.0,
+        "ctf_corrected": true,
+        "reconstruction_software": "AreTomo3 v1.0.23"
+      },
+      {
+        "id": 17036,
+        "name": "TS_86_3",
+        "processing": "filtered",
+        "voxel_spacing": 10.012,
+        "size_x": 630,
+        "size_y": 630,
+        "size_z": 184,
+        "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_86_3/Reconstructions/VoxelSpacing10.012/Tomograms/101/TS_86_3.mrc",
+        "file_size_mrc": 292119424.0,
+        "tomogram_version": 2.0,
+        "ctf_corrected": true,
+        "reconstruction_software": "AreTomo3 v1.0.23"
+      },
+      {
+        "id": 18930,
+        "name": "TS_86_3",
+        "processing": "denoised",
+        "voxel_spacing": 4.99,
+        "size_x": 1260,
+        "size_y": 1260,
+        "size_z": 368,
+        "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_86_3/Reconstructions/VoxelSpacing4.990/Tomograms/102/TS_86_3.mrc",
+        "file_size_mrc": 2336948224.0,
+        "tomogram_version": 1.0,
+        "ctf_corrected": true,
+        "reconstruction_software": "AreTomo3 v2.0.10"
+      },
+      {
+        "id": 18931,
+        "name": "TS_86_3",
+        "processing": "filtered",
+        "voxel_spacing": 4.99,
+        "size_x": 1260,
+        "size_y": 1260,
+        "size_z": 368,
+        "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_86_3/Reconstructions/VoxelSpacing4.990/Tomograms/103/TS_86_3.mrc",
+        "file_size_mrc": 2336948224.0,
+        "tomogram_version": 1.0,
+        "ctf_corrected": true,
+        "reconstruction_software": "AreTomo3 v2.0.10"
+      }
+    ]
+  },
+  {
+    "run_id": 16469,
+    "name": "TS_99_9",
+    "tomograms": [
+      {
+        "id": 17039,
+        "name": "TS_99_9",
+        "processing": "denoised",
+        "voxel_spacing": 10.012,
+        "size_x": 630,
+        "size_y": 630,
+        "size_z": 184,
+        "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_99_9/Reconstructions/VoxelSpacing10.012/Tomograms/100/TS_99_9.mrc",
+        "file_size_mrc": 292119424.0,
+        "tomogram_version": 2.0,
+        "ctf_corrected": true,
+        "reconstruction_software": "AreTomo3 v1.0.23"
+      },
+      {
+        "id": 17040,
+        "name": "TS_99_9",
+        "processing": "filtered",
+        "voxel_spacing": 10.012,
+        "size_x": 630,
+        "size_y": 630,
+        "size_z": 184,
+        "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_99_9/Reconstructions/VoxelSpacing10.012/Tomograms/101/TS_99_9.mrc",
+        "file_size_mrc": 292119424.0,
+        "tomogram_version": 2.0,
+        "ctf_corrected": true,
+        "reconstruction_software": "AreTomo3 v1.0.23"
+      },
+      {
+        "id": 18932,
+        "name": "TS_99_9",
+        "processing": "denoised",
+        "voxel_spacing": 4.99,
+        "size_x": 1260,
+        "size_y": 1260,
+        "size_z": 368,
+        "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_99_9/Reconstructions/VoxelSpacing4.990/Tomograms/102/TS_99_9.mrc",
+        "file_size_mrc": 2336948224.0,
+        "tomogram_version": 1.0,
+        "ctf_corrected": true,
+        "reconstruction_software": "AreTomo3 v2.0.10"
+      },
+      {
+        "id": 18933,
+        "name": "TS_99_9",
+        "processing": "filtered",
+        "voxel_spacing": 4.99,
+        "size_x": 1260,
+        "size_y": 1260,
+        "size_z": 368,
+        "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_99_9/Reconstructions/VoxelSpacing4.990/Tomograms/103/TS_99_9.mrc",
+        "file_size_mrc": 2336948224.0,
+        "tomogram_version": 1.0,
+        "ctf_corrected": true,
+        "reconstruction_software": "AreTomo3 v2.0.10"
+      }
+    ]
+  }
+]

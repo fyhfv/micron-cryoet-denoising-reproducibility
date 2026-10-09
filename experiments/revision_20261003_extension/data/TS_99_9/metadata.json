@@ -1,0 +1,84 @@
+{
+  "run": "TS_99_9",
+  "run_id": 16469,
+  "tomogram": {
+    "id": 17040,
+    "name": "TS_99_9",
+    "processing": "filtered",
+    "voxel_spacing": 10.012,
+    "size_x": 630,
+    "size_y": 630,
+    "size_z": 184,
+    "https_mrc_file": "https://files.cryoetdataportal.cziscience.com/10440/TS_99_9/Reconstructions/VoxelSpacing10.012/Tomograms/101/TS_99_9.mrc",
+    "file_size_mrc": 292119424.0,
+    "tomogram_version": 2.0,
+    "ctf_corrected": true,
+    "reconstruction_software": "AreTomo3 v1.0.23"
+  },
+  "download": {
+    "url": "https://files.cryoetdataportal.cziscience.com/10440/TS_99_9/Reconstructions/VoxelSpacing10.012/Tomograms/101/TS_99_9.mrc",
+    "file": "C:\\Users\\wangz\\Desktop\\\u751f\u7269\u6280\u672f\u7efc\u8ff0\\experiments\\revision_20261003_extension\\data\\TS_99_9\\raw.mrc",
+    "bytes": 292119424,
+    "sha256": "1a2acf854ca030fca2954b1719593c899a5ae7dd8041f1b273752c0a04e32f28",
+    "completed_utc": "2026-10-03T04:48:51.072141+00:00",
+    "seconds": 248.5185787677765,
+    "etag": "\"fc41676f159a94faab24e5bf270cda0c-18\"",
+    "last_modified": "Mon, 05 Jan 2026 18:55:17 GMT"
+  },
+  "annotations": [
+    {
+      "annotation_id": 32001,
+      "file_id": 74219,
+      "url": "https://files.cryoetdataportal.cziscience.com/10440/TS_99_9/Reconstructions/VoxelSpacing10.012/Annotations/100/ferritin_complex-2.0_point.ndjson",
+      "sha256": "13c9e391e1ed4cc6ec7fd3d4112b2d6daf54abca5725293ebd89b033d7911477",
+      "object": "ferritin complex",
+      "count": 36,
+      "method": "hybrid curation using CellCanvas, copick, slabpick, deepfindET, topaz, minislab curation and cryoSPARC"
+    },
+    {
+      "annotation_id": 32002,
+      "file_id": 74220,
+      "url": "https://files.cryoetdataportal.cziscience.com/10440/TS_99_9/Reconstructions/VoxelSpacing10.012/Annotations/101/beta_amylase-2.0_point.ndjson",
+      "sha256": "a47a68dd67d82818de5847ddcab6812abd986c879cea877b291ab28bf9db74a7",
+      "object": "Beta-amylase",
+      "count": 21,
+      "method": "hybrid curation using CellCanvas, copick, slabpick, deepfindET, topaz, minislab curation and cryoSPARC"
+    },
+    {
+      "annotation_id": 32003,
+      "file_id": 74221,
+      "url": "https://files.cryoetdataportal.cziscience.com/10440/TS_99_9/Reconstructions/VoxelSpacing10.012/Annotations/102/beta_galactosidase-2.0_point.ndjson",
+      "sha256": "4923adc789430c32d25280638268989b7dd81c7b941a7e13601e745d60ed43cc",
+      "object": "Beta-galactosidase",
+      "count": 21,
+      "method": "hybrid curation using CellCanvas, copick, slabpick, deepfindET, topaz, minislab curation and cryoSPARC"
+    },
+    {
+      "annotation_id": 32004,
+      "file_id": 74222,
+      "url": "https://files.cryoetdataportal.cziscience.com/10440/TS_99_9/Reconstructions/VoxelSpacing10.012/Annotations/103/cytosolic_ribosome-2.0_point.ndjson",
+      "sha256": "088b0788a566345c0d6f4538e5fbad76973d2479c34e2f4f304859bb8f06da2b",
+      "object": "cytosolic ribosome",
+      "count": 65,
+      "method": "hybrid curation using CellCanvas, copick, slabpick, deepfindET, topaz, minislab curation and cryoSPARC"
+    },
+    {
+      "annotation_id": 32005,
+      "file_id": 74223,
+      "url": "https://files.cryoetdataportal.cziscience.com/10440/TS_99_9/Reconstructions/VoxelSpacing10.012/Annotations/104/thyroglobulin-2.0_point.ndjson",
+      "sha256": "cfbe99c68c4d388773c474fcb1065c1668b4385c867f284bf36db6165f480701",
+      "object": "Thyroglobulin",
+      "count": 46,
+      "method": "hybrid curation using CellCanvas, copick, slabpick, deepfindET, topaz, minislab curation and cryoSPARC"
+    },
+    {
+      "annotation_id": 32006,
+      "file_id": 74224,
+      "url": "https://files.cryoetdataportal.cziscience.com/10440/TS_99_9/Reconstructions/VoxelSpacing10.012/Annotations/105/pp7_vlp-2.0_point.ndjson",
+      "sha256": "abf5ec2ef1a93e3b4a19d5ae4d1df37da08854088eaea8ce73461e1f7cb6fda7",
+      "object": "virus-like capsid",
+      "count": 13,
+      "method": "hybrid curation using CellCanvas, copick, slabpick, deepfindET, topaz, minislab curation and cryoSPARC"
+    }
+  ]
+}

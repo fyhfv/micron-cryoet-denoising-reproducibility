@@ -1,0 +1,34 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*~
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Local large re-downloads (not part of the portable audit bundle)
+**/raw.mrc
+**/Tomo110_tutorial.zip
+*.mrc
+!**/half_evaluation/**
+
+# Local runtime / retraining outputs
+**/cryoet_extension_runtime*/
+**/_local_work/
+*.log.bak
+
+# Nested full delivery zips (use GitHub Release if re-packaging)
+Peng_extension_reproducibility.zip
+*.zip
+!**/data/**/*.zip

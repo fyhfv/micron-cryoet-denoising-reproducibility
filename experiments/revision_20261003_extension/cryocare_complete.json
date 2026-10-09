@@ -1,0 +1,80 @@
+{
+  "training": {
+    "training_seconds": 310.55111742019653,
+    "mean": -0.15303507447242737,
+    "std": 1.5722182989120483,
+    "epochs_completed": 20,
+    "weights_sha256": "21e3008f73bc36f2b0772044d50613020a6448bd01a4b0645cfdff6294629ad8",
+    "model_dir": "C:\\Users\\wangz\\cryoet_extension_runtime_20261003\\official_cryocare",
+    "script_sha256": "b028f3e347df2b09b65ae32631ae95ca87240feca994f613a7316386c0702a9b"
+  },
+  "crops": [
+    {
+      "crop": 0,
+      "center_zyx": [
+        104,
+        960,
+        144
+      ],
+      "file": "C:\\Users\\wangz\\Desktop\\\u751f\u7269\u6280\u672f\u7efc\u8ff0\\experiments\\revision_20261003_extension\\half_evaluation\\crop_0.npz",
+      "sha256": "d52ca7c1f7398ec41b4996d430eb5d97702cc6ca6bc5ed5098d716a9ffaee67b",
+      "inference_seconds": 1.3127148151397705
+    },
+    {
+      "crop": 1,
+      "center_zyx": [
+        104,
+        960,
+        400
+      ],
+      "file": "C:\\Users\\wangz\\Desktop\\\u751f\u7269\u6280\u672f\u7efc\u8ff0\\experiments\\revision_20261003_extension\\half_evaluation\\crop_1.npz",
+      "sha256": "4af958394baf57dc3d7fe51f823068dd681feb6d6e6135663554f37b6c105310",
+      "inference_seconds": 1.2692148685455322
+    },
+    {
+      "crop": 2,
+      "center_zyx": [
+        104,
+        1088,
+        144
+      ],
+      "file": "C:\\Users\\wangz\\Desktop\\\u751f\u7269\u6280\u672f\u7efc\u8ff0\\experiments\\revision_20261003_extension\\half_evaluation\\crop_2.npz",
+      "sha256": "c9fc257de8ad3a8822ff9bdb00132285fcf7fe37656fb64901c7eb9c6e4ef15f",
+      "inference_seconds": 1.1667940616607666
+    },
+    {
+      "crop": 3,
+      "center_zyx": [
+        104,
+        1088,
+        400
+      ],
+      "file": "C:\\Users\\wangz\\Desktop\\\u751f\u7269\u6280\u672f\u7efc\u8ff0\\experiments\\revision_20261003_extension\\half_evaluation\\crop_3.npz",
+      "sha256": "fa12b26b0827d634d678a2d2c03c4ed8c2e9e06799334a672ae5122542fb4eae",
+      "inference_seconds": 1.1507291793823242
+    },
+    {
+      "crop": 4,
+      "center_zyx": [
+        104,
+        1216,
+        144
+      ],
+      "file": "C:\\Users\\wangz\\Desktop\\\u751f\u7269\u6280\u672f\u7efc\u8ff0\\experiments\\revision_20261003_extension\\half_evaluation\\crop_4.npz",
+      "sha256": "6478b5ed089872db3a86c0b570b480ab534d2b4325adafc2d83b70593a3d2356",
+      "inference_seconds": 1.1635453701019287
+    },
+    {
+      "crop": 5,
+      "center_zyx": [
+        104,
+        1216,
+        400
+      ],
+      "file": "C:\\Users\\wangz\\Desktop\\\u751f\u7269\u6280\u672f\u7efc\u8ff0\\experiments\\revision_20261003_extension\\half_evaluation\\crop_5.npz",
+      "sha256": "8f3b675df26252aab719f00c21b076912e71fefe4fd1659c7f517b313a93b9cd",
+      "inference_seconds": 1.159858226776123
+    }
+  ],
+  "completed": "2026-10-03T13:00:37"
+}

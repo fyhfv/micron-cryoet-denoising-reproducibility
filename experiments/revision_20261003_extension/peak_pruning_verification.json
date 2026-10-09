@@ -1,0 +1,7 @@
+{
+  "cached_initial_threshold": 0.3,
+  "frozen_threshold": 0.65,
+  "selected_candidates": 5982,
+  "exact_coordinates_and_order_equal": true,
+  "reason": "Fixed-threshold evaluation needs no lower-score peaks; the initial slow all-threshold extraction was stopped, its cached candidates retained. No thresholds or scored outputs changed."
+}

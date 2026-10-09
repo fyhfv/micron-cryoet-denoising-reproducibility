@@ -1,0 +1,18 @@
+{
+  "voxel_spacing": 10.012,
+  "tomo_id": 17015,
+  "run": "TS_5_4",
+  "shape": [
+    184,
+    630,
+    630
+  ],
+  "radii_vox": {
+    "ferritin complex": 5.9928086296444265,
+    "Beta-amylase": 2.9964043148222133,
+    "Beta-galactosidase": 4.49460647223332,
+    "cytosolic ribosome": 6.492209348781462,
+    "Thyroglobulin": 6.492209348781462,
+    "virus-like capsid": 7.491010787055533
+  }
+}

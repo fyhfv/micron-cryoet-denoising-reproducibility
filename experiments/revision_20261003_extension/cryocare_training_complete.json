@@ -1,0 +1,9 @@
+{
+  "training_seconds": 310.55111742019653,
+  "mean": -0.15303507447242737,
+  "std": 1.5722182989120483,
+  "epochs_completed": 20,
+  "weights_sha256": "21e3008f73bc36f2b0772044d50613020a6448bd01a4b0645cfdff6294629ad8",
+  "model_dir": "C:\\Users\\wangz\\cryoet_extension_runtime_20261003\\official_cryocare",
+  "script_sha256": "b028f3e347df2b09b65ae32631ae95ca87240feca994f613a7316386c0702a9b"
+}

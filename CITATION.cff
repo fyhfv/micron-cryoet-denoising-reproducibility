@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use these reproducibility materials, please cite the manuscript and, once available, the Zenodo version DOI."
+title: "Reproducibility package for deep-learning denoising and missing-wedge restoration in cryo-ET (Micron review, Peng_extension)"
+type: software
+authors:
+  - family-names: Jiang
+    given-names: Linhua
+  - family-names: Wu
+    given-names: Yi
+  - family-names: Long
+    given-names: Wei
+  - family-names: Zhu
+    given-names: Bo
+  - family-names: Peng
+    given-names: Sihua
+  - family-names: Li
+    given-names: Yao-Wang
+date-released: "2026-10-03"
+version: "1.0.0-pre"
+abstract: >
+  Bounded supplementary reproducibility materials for a Micron review article
+  on cryo-ET denoising and missing-wedge restoration. Includes scripts, hashes,
+  half-set evaluation arrays, and an official cryoCARE demonstration fit for
+  the Peng_extension controls. Not a new algorithm or full method benchmark.
+keywords:
+  - cryo-electron tomography
+  - denoising
+  - missing wedge
+  - reproducibility
+license: MIT
+repository-code: "https://github.com/REPLACE_ME/micron-cryoet-denoising-reproducibility"
+# identifiers:
+#   - type: doi
+#     value: 10.5281/zenodo.XXXXXXX

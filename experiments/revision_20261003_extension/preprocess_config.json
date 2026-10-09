@@ -1,0 +1,17 @@
+{
+  "model": "unet-3d-10a",
+  "weights": [
+    {
+      "path": "C:\\Users\\wangz\\Desktop\\生物技术综述\\experiments\\.venv\\Lib\\site-packages\\topaz\\pretrained\\denoise\\unet-3d-10a-v0.2.4.sav",
+      "sha256": "9011778cc231d667146435eba241fa984783624eaf18b929a0eabf23df527c3a"
+    }
+  ],
+  "torch": "2.6.0+cu124",
+  "topaz": "0.3.20",
+  "cuda": true,
+  "patch_size": 96,
+  "padding": 24,
+  "gaussian_sigma": 1.5,
+  "input": "global z-score; Topaz also performs its standard normalization",
+  "code_sha256": "bab18a87cd5bed9e12cea5872c2ac5ff9b618c039b0f1cee708425a7d1536175"
+}

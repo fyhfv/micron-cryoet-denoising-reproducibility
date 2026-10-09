@@ -1,0 +1,44 @@
+{
+  "calibration_run": "TS_5_4",
+  "source": "C:\\Users\\wangz\\Desktop\\生物技术综述\\experiments\\revision_20261003_peng_followup\\picking_threshold_sweep.csv",
+  "source_sha256": "93c6eea4e4a94c1c62ae6e9e2f5f6fd95125f78ec5526e21f83c31b7f869cc47",
+  "thresholds": {
+    "ferritin complex": {
+      "raw": 0.5,
+      "topaz": 0.6
+    },
+    "Beta-amylase": {
+      "raw": 0.65,
+      "topaz": 0.75
+    },
+    "Beta-galactosidase": {
+      "raw": 0.8,
+      "topaz": 0.8
+    },
+    "cytosolic ribosome": {
+      "raw": 0.45,
+      "topaz": 0.8
+    },
+    "Thyroglobulin": {
+      "raw": 0.5,
+      "topaz": 0.7
+    },
+    "virus-like capsid": {
+      "raw": 0.5,
+      "topaz": 0.5
+    }
+  },
+  "radii_vox": {
+    "ferritin complex": 5.9928086296444265,
+    "Beta-amylase": 2.9964043148222133,
+    "Beta-galactosidase": 4.49460647223332,
+    "cytosolic ribosome": 6.492209348781462,
+    "Thyroglobulin": 6.492209348781462,
+    "virus-like capsid": 7.491010787055533
+  },
+  "selection": "max calibration F1, lowest threshold on ties; no new-run labels used",
+  "protocols": [
+    "raw_fixed",
+    "per_input"
+  ]
+}
